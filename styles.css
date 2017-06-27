@@ -1,0 +1,31 @@
+body {
+  background-color: 1C588A;
+  background-image: url("http://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-16__880.jpg");
+  background-repeat: repeat-y;
+  box-shadow: 10px 10px 5px #888888;
+  visibility: visible;
+}
+h1 {
+    color: FFFFFF;
+    font-family: century gothic;
+    font-size: 300%;
+    text-align: center;
+    word-spacing: 2em;
+}
+p  {
+    color: F08D1E;
+    font-family: century gothic;
+    font-size: 160%;
+    text-align: center;
+    border-style: outside;
+    border-width: 5px;
+    border-width: medium;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
